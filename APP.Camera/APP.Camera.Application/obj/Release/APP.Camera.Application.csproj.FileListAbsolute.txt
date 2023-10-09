@@ -1,0 +1,14 @@
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Application.dll.config
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Application.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Application.XmlSerializers.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Application.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Domain.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Infrastructure.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Framework.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Domain.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Camera.Infrastructure.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\bin\Release\APP.Framework.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\obj\Release\APP.Camera.Application.csprojResolveAssemblyReference.cache
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\obj\Release\APP.Camera.Application.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\obj\Release\APP.Camera.Application.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Application\obj\Release\APP.Camera.Application.XmlSerializers.dll

@@ -1,0 +1,7 @@
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\bin\Release\APP.Camera.Domain.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\bin\Release\APP.Camera.Domain.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\bin\Release\APP.Framework.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\bin\Release\APP.Framework.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\obj\Release\APP.Camera.Domain.csprojResolveAssemblyReference.cache
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\obj\Release\APP.Camera.Domain.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Domain\obj\Release\APP.Camera.Domain.pdb

@@ -1,0 +1,9 @@
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\obj\Debug\APP.Camera.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Camera.Infrastructure.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Camera.Infrastructure.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Camera.Domain.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Framework.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Camera.Domain.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\bin\Debug\APP.Framework.pdb
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\obj\Debug\APP.Camera.Infrastructure.dll
+D:\Aru\Data\Project\APP.Camera\APP.Camera\APP.Camera.Infrastructure\obj\Debug\APP.Camera.Infrastructure.pdb
